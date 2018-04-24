@@ -1,6 +1,6 @@
 
 ###> symfony/framework-bundle ###
-/.idea
+.git/info/exclude .idea
 /.env
 /public/bundles/
 /var/
